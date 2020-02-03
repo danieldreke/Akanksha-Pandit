@@ -5,12 +5,12 @@ Video link: https://youtu.be/GY254QPjAQE (4:33 min)
 
 ### 1. Pen down every thought
 - Don't leave a single thought 
-  - every thought tells something which is deep subconsciously in your brain
+  - Every thought tells something which is deep subconsciously in your brain
 - Suprise: in the written down sentences lies a solution
   - Make an actionplan
   - Act on it
 - In case it's all thoughts of past
-  - burn the page and let it go
+  - Burn the page and let it go
 
 ### 2. Listen to soft music
 - Listen to music that suits you 
