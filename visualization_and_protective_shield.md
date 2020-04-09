@@ -12,4 +12,5 @@
 1. Take three deep breaths (@6:08)
 2. Shake your hand (@6:17)
 3. Before closing your eyes see very carefully your hand (@6:43)
-4. Close your eyes and visualize protective shield around it (@7:08)
+4. Close your eyes (@7:08)
+5. Visualize your hand and imagine white aura shield exactly shape of your hand (@7:12)
