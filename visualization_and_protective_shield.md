@@ -1,5 +1,5 @@
 ### Understanding Visualization
-- Be clear about _why_ you want to visualize (@2:30)
+- Be clear about _why_ you want to visualize (@2:31)
 - Be precise about _what_ you want to visualize (@2:34)
 - Visualization requires time and effort (@2:45)
 
