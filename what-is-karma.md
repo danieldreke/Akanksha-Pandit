@@ -1,6 +1,7 @@
+<label id="top"></label>
 [Go to main page](README.md)
 
-<h1 id="top">What is Karma?</h1>
+# What is Karma?
 
 [youtu.be ~ What is Karma?](https://youtu.be/GoBj68WvnVU) (13:28 min)
 

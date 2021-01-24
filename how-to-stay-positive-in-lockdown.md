@@ -1,6 +1,7 @@
+<label id="top"></label>
 [Go to main page](README.md)
 
-<h1 id="top">How to stay positive in Lockdown?</h1>
+# How to stay positive in Lockdown?
 
 [youtu.be ~ How to stay positive in Lockdown?](https://youtu.be/vGPzI2CgK6s) (7:19 min)
 - [Watch video starting @3:55 with first point "Time table"](https://youtu.be/vGPzI2CgK6s?t=235)
