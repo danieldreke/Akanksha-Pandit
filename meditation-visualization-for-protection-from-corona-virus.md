@@ -1,4 +1,4 @@
-[Go to main page](README.md)
+[Go to main page](README.md#top)
 
 <h1 id="top">Meditation/Visualization for Protection from Corona Virus</h1>
 

@@ -1,4 +1,4 @@
-# About
+<h1 id="top">About</h1>
 
 Notes taken of videos of Dr. Anita Keshaw's youtube channel [Dr. Anita Keshaw](https://www.youtube.com/channel/UCb1gNzGJqls5borB6EApcDg).
 
@@ -9,3 +9,5 @@ Notes taken of videos of Dr. Anita Keshaw's youtube channel [Dr. Anita Keshaw](h
 - [What is Karma?](what-is-karma.md#top)
 - [Visualization and protective shield](visualization_and_protective_shield.md#top)
 - [Meditation/Visualization for Protection from Corona Virus](meditation-visualization-for-protection-from-corona-virus.md#top)
+
+[Go to top](#top)
