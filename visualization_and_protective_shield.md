@@ -1,7 +1,6 @@
-<label id="top"></label>
 [Go to main page](README.md)
 
-# Visualization and Protective Shield
+<h1 id="top">Visualization and Protective Shield</h1>
 
 [youtu.be ~ Visualization made easy for Beginners](https://youtu.be/9BmKJ_Bisj4) (8:27 min)
 

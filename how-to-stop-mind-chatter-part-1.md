@@ -1,7 +1,6 @@
-<label id="top"></label>
 [Go to main page](README.md)
 
-# How to stop mind chatter - Part 1/3
+<h1 id="top">How to stop mind chatter - Part 1/3</h1>
 
 [youtu.be ~ How to stop mind chatter - Part 1/3](https://youtu.be/GY254QPjAQE) (4:33 min)
 

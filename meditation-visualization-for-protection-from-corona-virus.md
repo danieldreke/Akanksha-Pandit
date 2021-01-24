@@ -1,7 +1,6 @@
-<label id="top"></label>
 [Go to main page](README.md)
 
-# Meditation/Visualization for Protection from Corona Virus
+<h1 id="top">Meditation/Visualization for Protection from Corona Virus</h1>
 
 [youtu.be ~ Meditation/Visualization For Protection From Corona Virus](https://youtu.be/oaL4rQJy-T4) (6:03 min)
 
